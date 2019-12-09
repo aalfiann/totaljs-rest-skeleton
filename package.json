@@ -1,0 +1,30 @@
+{
+  "name": "totaljs-rest-skeleton",
+  "version": "1.0.0",
+  "description": "TotalJS Rest Skeleton with best practice way",
+  "main": "debug.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aalfiann/totaljs-rest-skeleton.git"
+  },
+  "keywords": [
+    "totaljs",
+    "totaljs-rest",
+    "totaljs-rest-api",
+    "totaljs-rest-skeleton"
+  ],
+  "author": "M ABD AZIZ ALFIAN",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/aalfiann/totaljs-rest-skeleton/issues"
+  },
+  "homepage": "https://github.com/aalfiann/totaljs-rest-skeleton#readme",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "total.js": "^3.3.2",
+    "uuid": "^3.3.3"
+  }
+}
